@@ -28,4 +28,4 @@
 - [x] 20. Working with Enums
 - [x] 21. The "any" Type
 - [x] 22. Union Types
-- [ ]
+- [x] 23. Literal Types

@@ -1,4 +1,4 @@
-function add(one, two) {
+function add(one, two, returnType) {
     var res;
     if (typeof one === "number" && typeof two === "number") {
         res = one + two;
@@ -6,7 +6,8 @@ function add(one, two) {
     else {
         res = "".concat(one).concat(two);
     }
-    return res;
+    return returnType === "as-string" ? res.toString() : res;
 }
-console.log(add(26, 26));
-console.log(add("Aaron", "Nguyen"));
+console.log(add(26, 25));
+console.log(add(26, 26, "as-string"));
+console.log(add("Aaron", "Nguyen", "as-string"));
