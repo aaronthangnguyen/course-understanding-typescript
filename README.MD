@@ -37,8 +37,8 @@
 - [x] Quiz 2: Core Types and Concepts
 - [x] 26. Function Return Types and "void"
 - [x] 27. Functions as Types
-- [ ] 28. Function Types and Callbacks
-- [ ] Quiz 3: Functions and Types
+- [x] 28. Function Types and Callbacks
+- [x] Quiz 3: Functions and Types
 - [ ] 29. The "unknown" Type
 - [ ] 30. The "never" Type
 - [ ] 31. Wrap Up
