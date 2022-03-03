@@ -23,7 +23,7 @@
 - [x] 17. Nested Objects and Types
 - [x] 18. Array Types
 - [x] 19. Working with Tuples
-- [ ] 20. Working with Enums
+- [x] 20. Working with Enums
 - [ ]
 - [ ]
 - [ ]

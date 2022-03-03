@@ -1,14 +1,16 @@
+// Enum
+enum Role {
+  ADMIN,
+  AUTHOR,
+  READER,
+}
+
 // Object
-const person: {
-  name: string;
-  age: number;
-  hobbies: string[];
-  role: [number, string] /* Tuple */;
-} = {
+const person = {
   name: "Aaron",
   age: 26,
   hobbies: ["Sports", "Cooking"],
-  role: [2, "author"],
+  role: Role.ADMIN,
 };
 
 console.log(person);
