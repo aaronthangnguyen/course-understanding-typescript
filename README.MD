@@ -40,6 +40,6 @@
 - [x] 28. Function Types and Callbacks
 - [x] Quiz 3: Functions and Types
 - [x] 29. The "unknown" Type
-- [ ] 30. The "never" Type
-- [ ] 31. Wrap Up
-- [ ] 32. Useful Resource and Links
+- [x] 30. The "never" Type
+- [x] 31. Wrap Up
+- [x] 32. Useful Resource and Links
