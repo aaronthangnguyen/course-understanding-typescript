@@ -1,8 +1,15 @@
-function add(one, two, showResult, resultPhrase) {
-    showResult && console.log("".concat(resultPhrase).concat(one + two));
+// Object
+var person = {
+    name: "Aaron",
+    age: 26,
+    hobbies: ["Sports", "Cooking"],
+    role: [2, "author"]
+};
+console.log(person);
+console.log(person.name);
+// Array
+for (var _i = 0, _a = person.hobbies; _i < _a.length; _i++) {
+    var hobby = _a[_i];
+    console.log(hobby.toUpperCase());
 }
-var one = 5;
-var two = 2.8;
-var showResult = true;
-var resultPhrase = "Result: ";
-add(one, two, showResult, resultPhrase);
+// Tuple
