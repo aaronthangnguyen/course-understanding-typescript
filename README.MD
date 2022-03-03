@@ -39,7 +39,7 @@
 - [x] 27. Functions as Types
 - [x] 28. Function Types and Callbacks
 - [x] Quiz 3: Functions and Types
-- [ ] 29. The "unknown" Type
+- [x] 29. The "unknown" Type
 - [ ] 30. The "never" Type
 - [ ] 31. Wrap Up
 - [ ] 32. Useful Resource and Links
