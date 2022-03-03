@@ -6,7 +6,9 @@
 
 ### 1. Getting Started
 
-- [x] 1-9. Everything `03/02`
+`03/02/2022`
+
+- [x] 1-9. Everything
 
 ### 2. TypeScript Basics and Basic Types
 
@@ -24,6 +26,6 @@
 - [x] 18. Array Types
 - [x] 19. Working with Tuples
 - [x] 20. Working with Enums
-- [ ]
-- [ ]
+- [ ] 21. The "any" Type
+- [ ] 22. Union Types
 - [ ]
