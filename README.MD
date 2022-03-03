@@ -36,7 +36,7 @@
 - [x] 25. Type Aliases and Object Types
 - [x] Quiz 2: Core Types and Concepts
 - [x] 26. Function Return Types and "void"
-- [ ] 27. Functions as Types
+- [x] 27. Functions as Types
 - [ ] 28. Function Types and Callbacks
 - [ ] Quiz 3: Functions and Types
 - [ ] 29. The "unknown" Type
