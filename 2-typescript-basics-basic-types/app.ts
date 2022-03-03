@@ -1,7 +1,10 @@
+type NumberOrString = number | string;
+type _ReturnType = "as-number" | "as-string";
+
 function add(
-  one: number | string,
-  two: number | string,
-  returnType?: "as-number" | "as-string"
+  one: NumberOrString,
+  two: NumberOrString,
+  returnType?: _ReturnType
 ) {
   let res: number | string;
   if (typeof one === "number" && typeof two === "number") {

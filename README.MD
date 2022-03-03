@@ -29,3 +29,17 @@
 - [x] 21. The "any" Type
 - [x] 22. Union Types
 - [x] 23. Literal Types
+
+`03/03/2022`
+
+- [x] 24. Type Aliases / Custom Types
+- [x] 25. Type Aliases and Object Types
+- [x] Quiz 2: Core Types and Concepts
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
