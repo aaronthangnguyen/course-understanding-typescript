@@ -14,7 +14,7 @@
 
 `03/02/2022`
 
-- [x] 10. Introduction
+- [x] 10. Module Introduction
 - [x] 11. Using Types
 - [x] 12. TypeScript Types vs JavaScript Types
 - [x] 13. Type Casing
@@ -43,3 +43,21 @@
 - [x] 30. The "never" Type
 - [x] 31. Wrap Up
 - [x] 32. Useful Resource and Links
+
+`03/04/2022`
+
+- [ ] 33. Module Introduction
+- [ ] 34. Using "Watch Mode"
+- [ ] 35. Compiling the Entire Projects / Mutiples Files
+- [ ] 36. Including and Excluding Files
+- [ ] 37. Setting a Compilation Target
+- [ ] 38. Understanding TypeScript Core Libs
+- [ ] 39. More Configuration and Compilation Options
+- [ ] 40. Working with Source Maps
+- [ ] 41. rootDir and outDir
+- [ ] 42. Stop Emitting Files on Compilation Errors
+- [ ] 43. Strict Compilation
+- [ ] 44. Code Quality Options
+- [ ] 45. Debugging with Visual Studio Code
+- [ ] 46. Wrap Up
+- [ ] 47. Useful Resources and Links
