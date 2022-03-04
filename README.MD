@@ -46,13 +46,13 @@
 
 `03/04/2022`
 
-- [ ] 33. Module Introduction
-- [ ] 34. Using "Watch Mode"
-- [ ] 35. Compiling the Entire Projects / Mutiples Files
-- [ ] 36. Including and Excluding Files
-- [ ] 37. Setting a Compilation Target
-- [ ] 38. Understanding TypeScript Core Libs
-- [ ] 39. More Configuration and Compilation Options
+- [x] 33. Module Introduction
+- [x] 34. Using "Watch Mode"
+- [x] 35. Compiling the Entire Projects / Mutiples Files
+- [x] 36. Including and Excluding Files
+- [x] 37. Setting a Compilation Target
+- [x] 38. Understanding TypeScript Core Libs
+- [x] 39. More Configuration and Compilation Options
 - [ ] 40. Working with Source Maps
 - [ ] 41. rootDir and outDir
 - [ ] 42. Stop Emitting Files on Compilation Errors
