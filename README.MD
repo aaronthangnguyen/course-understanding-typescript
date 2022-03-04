@@ -53,11 +53,11 @@
 - [x] 37. Setting a Compilation Target
 - [x] 38. Understanding TypeScript Core Libs
 - [x] 39. More Configuration and Compilation Options
-- [ ] 40. Working with Source Maps
-- [ ] 41. rootDir and outDir
-- [ ] 42. Stop Emitting Files on Compilation Errors
-- [ ] 43. Strict Compilation
-- [ ] 44. Code Quality Options
-- [ ] 45. Debugging with Visual Studio Code
-- [ ] 46. Wrap Up
-- [ ] 47. Useful Resources and Links
+- [x] 40. Working with Source Maps
+- [x] 41. rootDir and outDir
+- [x] 42. Stop Emitting Files on Compilation Errors
+- [x] 43. Strict Compilation
+- [x] 44. Code Quality Options
+- [x] 45. Debugging with Visual Studio Code
+- [x] 46. Wrap Up
+- [x] 47. Useful Resources and Links
