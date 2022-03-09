@@ -16,19 +16,16 @@ class Department {
     console.log(`Department ${this.name}`);
   }
 
-  add(employee: string) {
+  addEmployee(employee: string) {
     this.#employees.push(employee);
   }
   get employees() {
     return this.#employees;
   }
-  set employees(value: string[]) {
-    this.#employees = value;
-  }
 }
 
 const accounting = new Department("Accounting");
 console.log(accounting);
-accounting.add("Max");
-accounting.add("Emily");
+accounting.addEmployee("Max");
+accounting.addEmployee("Emily");
 console.log(accounting.employees);
