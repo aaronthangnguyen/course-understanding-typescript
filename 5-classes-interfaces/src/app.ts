@@ -1,31 +1,25 @@
 class Department {
-  #name: string;
-  #employees: string[] = [];
+  private employees: string[] = [];
 
-  constructor(name: string) {
-    this.#name = name;
-  }
-  get name() {
-    return this.#name;
-  }
-  set name(value: string) {
-    this.#name = value;
-  }
+  constructor(private readonly id: string, public name: string) {}
 
   describe(this: Department) {
-    console.log(`Department ${this.name}`);
+    console.log(`Department (${this.id}): ${this.name}`);
   }
 
   addEmployee(employee: string) {
-    this.#employees.push(employee);
-  }
-  get employees() {
-    return this.#employees;
+    this.employees.push(employee);
   }
 }
 
-const accounting = new Department("Accounting");
-console.log(accounting);
+class ITDepartment extends Department {
+  constructor(id: string, public admins: string[]) {
+    super(id, "IT");
+  }
+}
+
+const accounting = new Department("0", "Accounting");
+const it = new ITDepartment("1", ["Max"]);
+console.log(it);
 accounting.addEmployee("Max");
 accounting.addEmployee("Emily");
-console.log(accounting.employees);
